@@ -42,7 +42,7 @@ function MenuWrap() {
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="/statistics">
                 <i className="bi bi-graph-up"></i>- Estadísticas
               </a>
             </li>

@@ -1,13 +1,12 @@
 import React from 'react';
 import MenuWrap from './MenuWrap';
 import ContentWrap from './ContentWrap';
+import SearchWrap from './SearchWrap';
 
 function Home() {
   return (
-    <div>
-      <h1>Dashboard</h1>
-      <p>Bienvenido al panel de control.</p>
-      {/* Aquí puedes agregar contenido adicional para tu dashboard */}
+    <div className='dashboard'>
+      <SearchWrap/>
       <MenuWrap/>
       <ContentWrap />
     </div>
