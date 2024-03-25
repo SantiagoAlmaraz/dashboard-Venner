@@ -16,7 +16,7 @@ function SearchWrap() {
             <a href="#">
               <i
                 className="bi bi-person-add"
-                style={{ fontSize: "1.5rem", color: "cornflowerblue" }}
+                style={{ fontSize: "1.5rem", color: "white" }}
               ></i>
             </a>
           </button>
@@ -24,7 +24,7 @@ function SearchWrap() {
             <a href="#">
               <i
                 className="bi bi-person"
-                style={{ fontSize: "1.5rem", color: "cornflowerblue" }}
+                style={{ fontSize: "1.5rem", color: "white" }}
               ></i>
             </a>
           </button>
@@ -32,7 +32,7 @@ function SearchWrap() {
             <a href="#">
               <i
                 className="bi bi-box-arrow-right"
-                style={{ fontSize: "1.5rem", color: "cornflowerblue" }}
+                style={{ fontSize: "1.5rem", color: "red" }}
               ></i>
             </a>
           </button>
